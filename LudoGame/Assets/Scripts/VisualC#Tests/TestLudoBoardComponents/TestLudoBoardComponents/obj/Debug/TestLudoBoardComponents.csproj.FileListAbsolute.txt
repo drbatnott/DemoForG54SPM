@@ -1,7 +1,0 @@
-C:\Users\pxbadmin\Desktop\workspace\DemoForG54SPM\LudoGame\Assets\Scripts\VisualC#Tests\TestLudoBoardComponents\TestLudoBoardComponents\bin\Debug\TestLudoBoardComponents.dll
-C:\Users\pxbadmin\Desktop\workspace\DemoForG54SPM\LudoGame\Assets\Scripts\VisualC#Tests\TestLudoBoardComponents\TestLudoBoardComponents\bin\Debug\TestLudoBoardComponents.pdb
-C:\Users\pxbadmin\Desktop\workspace\DemoForG54SPM\LudoGame\Assets\Scripts\VisualC#Tests\TestLudoBoardComponents\TestLudoBoardComponents\bin\Debug\ClassLibrary1.dll
-C:\Users\pxbadmin\Desktop\workspace\DemoForG54SPM\LudoGame\Assets\Scripts\VisualC#Tests\TestLudoBoardComponents\TestLudoBoardComponents\bin\Debug\ClassLibrary1.pdb
-C:\Users\pxbadmin\Desktop\workspace\DemoForG54SPM\LudoGame\Assets\Scripts\VisualC#Tests\TestLudoBoardComponents\TestLudoBoardComponents\obj\Debug\TestLudoBoardComponents.csprojResolveAssemblyReference.cache
-C:\Users\pxbadmin\Desktop\workspace\DemoForG54SPM\LudoGame\Assets\Scripts\VisualC#Tests\TestLudoBoardComponents\TestLudoBoardComponents\obj\Debug\TestLudoBoardComponents.dll
-C:\Users\pxbadmin\Desktop\workspace\DemoForG54SPM\LudoGame\Assets\Scripts\VisualC#Tests\TestLudoBoardComponents\TestLudoBoardComponents\obj\Debug\TestLudoBoardComponents.pdb
