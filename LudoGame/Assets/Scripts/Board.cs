@@ -47,4 +47,9 @@ public class Board : MonoBehaviour {
 	void Update () {
 	
 	}
+
+    public float GetSquareX(int p)
+    {
+        return squares[p].transform.position.x;
+    }
 }

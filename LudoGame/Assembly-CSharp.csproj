@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Board.cs" />
+     <Compile Include="Assets\Scripts\LudoGame.cs" />
      <Compile Include="Assets\Scripts\Square.cs" />
      <Compile Include="Assets\Scripts\SquareBehaviour.cs" />
      <Compile Include="Assets\UnityTestTools\Assertions\AssertionComponent.cs" />
