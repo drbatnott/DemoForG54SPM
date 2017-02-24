@@ -39,7 +39,7 @@ public class DiceTest {
         int i = d.Roll();
         player.transform.position = places[i-1];
         //Assert
-        //The object has a new name
+        //The object has a new position
         int x1 = (int)player.transform.position.x;
         int x2 = (int)places[i - 1].x;
         Assert.True(x1 == x2);
