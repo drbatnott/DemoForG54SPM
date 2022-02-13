@@ -57,12 +57,12 @@ namespace UnityTest
         {
             EditorApplication.hierarchyWindowItemOnGUI -= OnHierarchyWindowItemDraw;
             EditorApplication.hierarchyWindowItemOnGUI += OnHierarchyWindowItemDraw;
-            EditorApplication.hierarchyWindowChanged -= OnHierarchyChangeUpdate;
-            EditorApplication.hierarchyWindowChanged += OnHierarchyChangeUpdate;
+            EditorApplication.hierarchyChanged -= OnHierarchyChangeUpdate;
+            EditorApplication.hierarchyChanged += OnHierarchyChangeUpdate;
             EditorApplication.update -= BackgroundSceneChangeWatch;
             EditorApplication.update += BackgroundSceneChangeWatch;
-            EditorApplication.playmodeStateChanged -= OnPlaymodeStateChanged;
-            EditorApplication.playmodeStateChanged += OnPlaymodeStateChanged;
+            //EditorApplication.playModeStateChanged -= OnPlaymodeStateChanged;
+            //EditorApplication.playmodeStateChanged += OnPlaymodeStateChanged;
         }
 
         private static void OnPlaymodeStateChanged()

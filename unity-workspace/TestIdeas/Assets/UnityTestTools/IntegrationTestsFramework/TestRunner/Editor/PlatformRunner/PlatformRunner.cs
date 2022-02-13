@@ -89,14 +89,14 @@ namespace UnityTest.IntegrationTests
             settings.RemoveAllConfigurationFiles();
 
             AssetDatabase.Refresh();
-
+/*
             if (!string.IsNullOrEmpty(result))
             {
                 if (InternalEditorUtility.inBatchMode)
                     EditorApplication.Exit(Batch.returnCodeRunError);
                 return;
             }
-
+*/
             if (configuration.sendResultsOverNetwork)
                 NetworkResultsReceiver.StartReceiver(configuration);
             else if (InternalEditorUtility.inBatchMode)

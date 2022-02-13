@@ -20,6 +20,7 @@ public class PlayerBehaviour : MonoBehaviour {
     public static void TakeGo()
     {
         int i = DiceReal.Roll();
+        Debug.Log("rolled a " + i);
         diceAnim.SetInteger("Face", i);
         myGo = false;
     }

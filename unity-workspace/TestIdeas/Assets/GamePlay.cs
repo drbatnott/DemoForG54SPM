@@ -103,6 +103,7 @@ public class GamePlay : MonoBehaviour {
             if (Input.GetKeyDown(KeyCode.Return))
             {
                 int show = DiceReal.Roll();
+                Debug.Log(show);
                 //anim.SetInteger("Face", 0);
                 anim.SetInteger("Face", show);
                 playerpos += show;
